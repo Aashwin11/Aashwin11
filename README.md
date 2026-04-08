@@ -31,7 +31,7 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> </a> 
 <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/github/white" alt="github" width="40" height="40"/> </a> 
 <a href="https://github.com/features/actions" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/githubactions/2088FF" alt="githubactions" width="40" height="40"/> </a> 
-<a href="https://harness.io/" target="_blank" rel="noreferrer"> <img src="https://logo.clearbit.com/harness.io" alt="harness" width="40" height="40"/> </a> 
+<a href="https://harness.io/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/harness" alt="harness" width="40" height="40" style="border-radius: 8px;"/> </a> 
 <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kubernetes/kubernetes-plain.svg" alt="kubernetes" width="40" height="40"/> </a> 
 <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a> 
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
@@ -40,7 +40,7 @@
 <a href="https://modelcontextprotocol.io/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/fluency/48/api-settings.png" alt="mcp" width="40" height="40"/> </a> 
 <a href="https://www.datadoghq.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.simpleicons.org/datadog/632CA6" alt="datadog" width="40" height="40"/> </a> 
 <a href="https://argoproj.github.io/cd/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/argocd/argocd-original.svg" alt="argocd" width="40" height="40"/> </a> 
-<a href="https://skaffold.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/35079634?s=48&v=4" alt="skaffold" width="40" height="40"/> </a> 
+<a href="https://skaffold.dev/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/35079634?s=48&v=4" alt="skaffold" width="40" height="40" style="border-radius: 8px;"/> </a> 
 <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" alt="fastapi" width="40" height="40"/> </a> 
 </p>
 
